@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Inferno",
+        "type":"Outfit",
+        "rate":4,
+        "rarity":"Legendary",
+        "cost":1000,
+        "description":"The Inferno outfit is a Legendary outfit in Battle Royale that could be obtained as a reward from Tier 100 of Season 2 Battle Pass. It includes the Inferno outfit, the Inferno Wrap, and the Inferno Glider."
+    ,"image":"assets/skin6.png",
+    "color":5
+    },{
+        "name":"Insight",
+        "type":"Outfit",
+        "rate":5,
+        "rarity":"Legendary",
+        "cost":2500,
+        "description":"The Raven outfit is a Legendary outfit in Battle Royale that could be obtained as a reward from Tier 100 of Season 3 Battle Pass. It includes the Raven outfit, the Raven Wrap, and the Raven Glider."
+        ,"image":"assets/skin2.png",
+        "color":6
+    },{
+        "name":"Cobalt",
+        "type":"Outfit",
+        "rate":4,
+        "rarity":"Legendary",
+        "cost":1500,
+        "description":"The Cobalt outfit is a Legendary outfit in Battle Royale that could be obtained as a reward from Tier 100 of Season 4 Battle Pass. It includes the Cobalt outfit, the Cobalt Wrap, and the Cobalt Glider."
+        ,"image":"assets/skin4.png",
+        "color":6
+    },{
+        "name":"Flapjackie",
+        "type":"Outfit",
+        "rate":3,
+        "rarity":"Legendary",
+        "cost":1500,
+        "description":"The Flapjackie outfit is a Legendary outfit in Battle Royale that could be obtained as a reward from Tier 100 of Season 4 Battle Pass. It includes the Cobalt outfit, the Flapjackie Wrap, and the Flapjackie Glider."
+        ,"image":"assets/skin5.png",
+        "color":6
+    },{
+        "name":"Aeronaut",
+        "type":"Outfit",
+        "rate":3,
+        "rarity":"Legendary",
+        "cost":2000,
+        "description":"The Rogue Agent outfit is a Legendary outfit in Battle Royale that could be obtained as a reward from Tier 100 of Season 4 Battle Pass. It includes the Cobalt outfit, the Rogue Agent Wrap, and the Rogue Glider."
+        ,"image":"assets/skin1.png",
+        "color":3
+    }
+
+
+]
